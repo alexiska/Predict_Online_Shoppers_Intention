@@ -2,6 +2,7 @@
 
 ## Intro 
 The purpose of this project will be to classify user's purchase behaviours into purchase or no purchase. This can be used to gain insigt into how and why purchase was canceled. This can also be used as a model to gain a marketing advantage by advertisment targeting those who are more likely to retain their purchases, or saving money by not targeting the customers that are most likely to purchase. Data analysis was performed and machine learning models Logistic Regression and Support Vector Machine models were used to predict customers purchase. 
+Data is from: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
 ## Overview
 * Explored the dataset to analyze the relationships among the features both continuous and categorical features
